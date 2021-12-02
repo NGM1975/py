@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * # PROBANDO
 from Persona import *
 from tkinter import messagebox
 
